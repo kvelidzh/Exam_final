@@ -5849,7 +5849,8 @@ h5 {
     font-size: 14px; }
   .footer-padding {
     padding-top: 70px;
-    padding-bottom: 110px; }
+    padding-bottom: 110px;
+    margin: 0 auto; }
 
 .heart {
   color: #e84545; }
