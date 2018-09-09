@@ -5843,7 +5843,8 @@ h5 {
 
 .footer {
   background-color: #3a3e64;
-  min-height: 250px; }
+  min-height: 250px;
+  margin: 0 auto; }
   .footer-text {
     color: #757893;
     font-size: 14px; }
